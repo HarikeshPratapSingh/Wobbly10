@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wobbly10
+- 👋 Hi, I’m Harikesh Pratap Singh
 - 👀 I’m interested in machine learning, front end design and competitive coding
 - 🌱 I’m currently learning machine learning algorithms 
 - 💞️ I’m looking to collaborate on amlchine learning and data visualization projects
